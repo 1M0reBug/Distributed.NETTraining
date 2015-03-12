@@ -50,12 +50,14 @@
     <Compile Include="ArraysTests.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Calculator.cs" />
     <Compile Include="ClassesTests.cs" />
     <Compile Include="ControlFlowTests.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="InheritanceAndPolymorphismTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringCalculator.cs" />
     <Compile Include="TypesTests.cs" />
     <Compile Include="ValueTypesTests.cs" />
   </ItemGroup>
